@@ -1,2 +1,1 @@
-# chang-dong
- Hello Kitty!
+# Hello Kitty!
